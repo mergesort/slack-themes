@@ -8,7 +8,7 @@ Some Slack themes that I use. I think they're pretty, you don't have to, but you
 
 Great question!
 
-Below every preview image is a series of hex values. To add the theme to your Slack, open your team, open preferences [as demonstrated below](), and pick `Sidebar Theme` option. You should see a button that says `Feeling adventurous? You can customize your theme and share it with others.` You can paste the hex values in there, and voila, you have a custom theme.
+Below every preview image is a series of hex values. To add the theme to your Slack, open your team, open preferences (press cmd + comma on a Mac, no clue on Windows, but it should be somewhere easily accessible), and pick `Sidebar Theme` option. You should see a button that says `Feeling adventurous? You can customize your theme and share it with others.` You can paste the hex values in there, and voila, you have a custom theme.
 
 ##So without further ado, themes!
  
