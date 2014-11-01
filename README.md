@@ -16,25 +16,31 @@ Below every preview image is a series of hex values. To add the theme to your Sl
 #### Flatstrap
  #D0D0D0,#A0A0A0,#E74C3C,#2C3A49,#19B5FE,#2C3E50,#4EEC91,#F39C12
 
-![Fire and Ice](https://github.com/mergesort/slack-themes/blob/master/Previews/Flatstrap.png)
+![Flatstrap](https://github.com/mergesort/slack-themes/blob/master/Previews/Flatstrap.png)
 
 
 #### Stormy Day
  #45474E,#3C3F45,#D05F4F,#E8E8E9,#5D6365,#D6D6DD,#3BC566,#5DAEE9
 
-![Fire and Ice](https://github.com/mergesort/slack-themes/blob/master/Previews/Stormy%20Day.png)
+![Stormy Day](https://github.com/mergesort/slack-themes/blob/master/Previews/Stormy%20Day.png)
 
 
 #### Picks
  #3B4452,#45474E,#017ECC,#FEFEFE,#FFB925,#FEFEFE,#00D293,#FF4821
  
-![Fire and Ice](https://github.com/mergesort/slack-themes/blob/master/Previews/Picks.png)
+![Picks](https://github.com/mergesort/slack-themes/blob/master/Previews/Picks.png)
 
 
 #### Pop
  #444A47,#333333,#262626,#FEF13E,#FC3935,#FFFFFF,#7FD1F5,#FC3935
 
-![Fire and Ice](https://github.com/mergesort/slack-themes/blob/master/Previews/Pop.png)
+![Pop](https://github.com/mergesort/slack-themes/blob/master/Previews/Pop.png)
+
+
+#### 80's Night
+ #22A7F0,#3498DB,#FFCF4B,#303030,#2ECC71,#FEFEFE,#EA4C88,#3EDC81
+
+![80's Night](https://github.com/mergesort/slack-themes/blob/master/Previews/80's%20Night.png)
 
 
 #### Fire and Ice
