@@ -40,7 +40,7 @@ Below every preview image is a series of hex values. To add the theme to your Sl
 #### 80's Night
  #22A7F0,#3498DB,#FFCF4B,#303030,#2ECC71,#FEFEFE,#EA4C88,#3EDC81
 
-![80's Night](https://github.com/mergesort/slack-themes/blob/master/Previews/80's%20Night.png)
+![80's Night](https://github.com/mergesort/slack-themes/blob/master/Previews/80s%20Night.png)
 
 
 #### Fire and Ice
