@@ -30,6 +30,10 @@ Below every preview image is a series of hex values. To add the theme to your Sl
  
 ![Picks](https://github.com/mergesort/slack-themes/blob/master/Previews/Picks.png)
 
+#### Tuxedo
+ #222222,#333333,#E0E0E0,#222222,#888888,#FEFEFE,#EEF0F1,#34495E
+ 
+![Tuxedo](https://github.com/mergesort/slack-themes/blob/master/Previews/Tuxedo.png)
 
 #### Pop
  #444A47,#333333,#262626,#FEF13E,#FC3935,#FFFFFF,#7FD1F5,#FC3935
